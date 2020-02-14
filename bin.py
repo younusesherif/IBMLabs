@@ -1,0 +1,5 @@
+dec=int(input())
+print("decimal value is ",dec)
+print(bin(dec),"is binary")
+print(oct(dec),"is ocatl")
+print(hex(dec),"is hexadecimal")
